@@ -12,7 +12,7 @@ Der Zweck dieses Dokuments ist es, die wesentlichen Bedarfe und Funktionalitäte
 Der Zweck dieses Dokuments ist es, die wesentlichen Anforderungen an das System aus Sicht und mit den Begriffen der künftigen Anwender zu beschreiben.
 
 === Gültigkeitsbereich (Scope)
-Dieses Visions-Dokument bezieht sich auf das System {project-system-name}, das von <Team> entwickelt wird. Das System wird es <Zielkunde/Auftraggeber> erlauben, <Hauptfunktionen> zu nutzen, um damit <Vorteile> zu erreichen / <Aufgabe> zu erleichtern / <Problem> zu lösen.
+Dieses Visions-Dokument bezieht sich auf das System Cocktailando, das von IT Consulting  entwickelt wird. Das System wird es dem Barbesitzer erlauben, Cocktailando zu nutzen, um damit den bedürftigen Trinker seine Cocktails individuell zusammenzustellen und direkt nach Hause zu liefern. 
 
 === Definitionen, Akronyme und Abkürzungen
 //Verweis passend zum Belegabgabe-Template se1_belegabgabe_t00.adoc
@@ -34,13 +34,13 @@ Siehe <<#glossary, Glossar>>.
 
 [cols="1,3"]
 |===
-| Für | [Zielkunde / Persona]
-| der / die | [Angabe des Bedarfs oder Chance]
-| ist das  | [Produktname]
-| eine  | [Produktkategorie]
-| der / die | [Aussage zum Hauptvorteil / Alleinstellungsmerkmal]
-| anders als | [wesentliche Lösungsalternative]
-| kann unser Produkt | [Aussage zum Hauptunterschied]
+| Für | den Barbetreiber
+| der / die | Cocktails to go
+| ist das  | Cocktailando
+| eine  | Verkaufswebseite
+| der / die | Cockails nach individuellen Bedarf bereitstellt.
+| anders als | normale Cocktailbars
+| kann unser Produkt | die möglichkeit bieten sein Cocktail selber zu kreieren und nach Hause geliefert zu bekommen.
 |===
 
 
@@ -64,9 +64,10 @@ Siehe <<#glossary, Glossar>>.
 |===
 | Name | Beschreibung | Verantwortlichkeiten
 
-| [Benennung des Stakeholders (als Rolle)]
-| [Kurze Beschreibung des Stakeholders und seiner Ziele]
-| [Fassen Sie die wesentlichen Verantwortlichkeiten des Stakeholder mit Bezug auf das zu entwickelnde System kurz zusammen, d.h. ihr besonderen Interessen. Beispiele: Dieser Stakeholder sorgt dafür, dass das System gewartet wird / dass die angezeigten Daten aktuell sind / überwacht den Projektfortschritt / usw.]
+| Kunde/ Besitzer | beauftragt Entwicklung | Auftraggeber
+| Benutzer | Nutzer der Webseite | Nutzer der Webseite
+| Lieferant | Liefert die Cocktails von Bar an gewünschten Zielort | Zusteller des Verkaufsproduktes
+| Gesetzgeber | Datenschutz, Hygieneverordnung | überprüft Einhaltung der Gestze und Verordnungen
 |===
 
 Die Verfeinerung der Stakeholder, die das System benutzen, wird im UX-Konzept mittels Personas vorgenommen.
