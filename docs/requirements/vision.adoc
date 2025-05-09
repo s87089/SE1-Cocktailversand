@@ -65,7 +65,8 @@ Siehe <<#glossary, Glossar>>.
 | Name | Beschreibung | Verantwortlichkeiten
 
 | Kunde/ Besitzer | beauftragt Entwicklung | Auftraggeber
-| Benutzer | Nutzer der Webseite | Nutzer der Webseite
+| Benutzer | Nutzer der Webseite | Nutzung der Webseite
+| Mitarbeiter | Zur Produktion der Cocktails | Zubereitung der Cocktails
 | Lieferant | Liefert die Cocktails von Bar an gewünschten Zielort | Zusteller des Verkaufsproduktes
 | Gesetzgeber | Datenschutz, Hygieneverordnung | überprüft Einhaltung der Gestze und Verordnungen
 |===
@@ -81,7 +82,17 @@ Die Verfeinerung der Stakeholder, die das System benutzen, wird im UX-Konzept mi
 [%header, cols="4,1,4,1"]
 |===
 | Bedarf | Priorität | Features / Funktionen | Geplantes Release
-| xx | xx | xx | xx
+|  Gesetzliche Vorgaben für Alterskontrolle bei Bestellung durch verification über Drittanbieter ermöglichen (bei Auswahl von Alkoholhaltigen Cockatails)  | 10/10 | Jugendschutzprüfung | xx
+| Begleitung des Kunden im Auswahl- und Bezahlprozess| 10/10 | Bestellsystem  | xx
+|  sichere Zahlungsabwicklung  | 10/10 | Zahlungssystem per API ? | xx
+| Speicherung von persöhnlichen Daten | 10/10 | Anmeldefunktion | xx
+| Visualisierung des Angebotes für den Kunden | 10/10 | Produktkatalog | xx
+| Visualisierung der bereits ausgewählen Produkte | 10/10 | Warenkorb | xx
+| Zutateneinkaufstool | 8/10 | Zusammenfassung aller Bestellung und Berechnung der benötigten Zutaten | xx
+| Verwaltung der aktuellen Bestellung | 10/10 | Bestelleingangsübersicht | xx
+| Statusbearbeitung  | 10/10 | Bearbeitungstool für eingegangene Bestellung | xx
+| Schnelle navigation | 10 /10 | Suchfunktion oder Hirachie ... | xx
+| Anforderung Kunde (Barbesitzer) | 2/10 | Individualisierter Cocktail (Stelle dein eigenen Cocktail zusammen)  | xx
 |===
 
 
@@ -98,5 +109,15 @@ Hinweise:
 [%header, cols="4,1,1"]
 |===
 | Anforderung | Priorität | Geplantes Release
-| xx | xx | xx
+| Stornierungsfunktion | 5/10 | xx
+| Inventarisierung von Zutaten zur bestimmung der Lieferbarkeit | 4/10 | xx
+
+| Prüfungs Lieferungsgrenze (Lieferbezierk eingehalten?) | 8/10 | xx
+| Bestandswarnung für Mitarbeiter und Besitzer der Bar | 6/10 | xx
+| Mobile App zur besseren zugäglichkeit | 1/10 | xx
+| Zubereitungshilfe für Mitarbeiter | 1/10 | xx
+| Mitarbeiteransicht | 1/10 | xx
+
+
+
 |===
